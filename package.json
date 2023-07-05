@@ -1,0 +1,21 @@
+{
+  "name": "p5_visualizations",
+  "version": "1.0.0",
+  "description": "various things visualized in p5 js",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Custódio",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/p5": "0.9.1",
+    "eslint": "^8.43.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-p5js": "^1.0.1",
+    "eslint-plugin-html": "^5.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "htmlhint": "^1.1.4",
+    "stylelint": "^15.9.0"
+  }
+}
